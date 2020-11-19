@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chopthecabbagge",
+  "private_key_id": "964d5c83271f46879f24355f9c1dfae108dbeeab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCaIXaOJ9E41FGb\n4tqA7aS+avQpC0pxR7uH/Tl4yZ+CtBZgq8R6D0J/NUrfw1AZ4TkNVp/VrVEPYihq\ntuyMVS8ztONA9O4VdQuoIMDxS2nSQ9U55dC2k91if6jXBNR+mffRSjaPBeb7YcaT\njxYsS3cZUdEDVTHOzgSRk2F30hxFpmyrXKgMYL2sjKpXt22S7VMrr+0W42AoDoOa\nEkAEtT1e9+SdhmiaJVZ4h2c094U2Oek0WZwjc/cPumcrkeKjLvqVxOr0W8i1w/M8\nkc56eoCfp9UTVIfyU52pN2lf8BndREMRtLjQTymkT76U9snKN6Ue5PGU943aYQCk\nTNdm5njZAgMBAAECggEAAiTIANcl7kvprKjdkCB+A5X6Ol3pVaUBQzVu6LKpMMiv\nbP3GmEoBC0Li/TS6tvlucTSMuYyVDYk4da+An70JkIcKCBu/+fVsSZTXCiQZ3y5J\nV2pOWlO5JwcOgpsTF4WtsC//jUKwQTvNZrz9OnV8PRJpvUmgjTdJUfsCRofaE8/k\ns75QVOsrFonLwTO82FPzsdMVgraja8I5iuZxQgpYBXwMz+8WSgWh2/myfjU79sjJ\nXJo+HBda/TYkd5tRquOqMlMBU3txi3c1AdDpSG5VAhNEDhEV60HXBg3qAcf1t6nI\nFzZJD8hoa5+fCEBOQGGa0EfWBX0OcR41cyIsG5lE5wKBgQDZY8HzxKd6YhEClyxT\nJ+Od521/2DgKoehTrwY0DagaluJjIUGcwml8zuQpWO8QgtN1F53hVTlivtc51Bfx\nHm9RMVVVy2WBjfdILiv6Db6Lm+mG2imFLtk8ilTxv5x+DlK4YrfayIkY/iYEog8h\nfoYVkHLFTZvJsy6sOYhk5ZjFBwKBgQC1gXTEgSieyrnsSA7zpD/ENvsivAeOtQLa\n7JiSFBdepuxG7ncBvINKiVLJDNaOQOGRWjYfif2ccSYca54Yx6OxQmVKCN5ly1PE\nd5nmlZEA1ir1zP/DVZc6iF0LKUDKrT25Bso8hOdKE0OFdvPftlGYA6lGunzJTMn5\nCvYXSpI7HwKBgBVm0M1i6uoNhYcvwtlc7/e3tPwFGV9SmUDD1mSBg686c4c22vLH\n4QK8i5HWg5KojpDUhmKMtV2XVDEJRGIkkOj5ZmFP6OpcQ6ADi6jOeZfc/ZydFcFa\n32AqbjpulsWCO3qTnW4YmAax3qROIBc4EZNF6UarYU72KP4jm93zDJs5AoGABHyS\nuljG/EXemqydUgB5YwxI4O7s8OYgj/DRRKsieMB/jrFOV8ilJi6G0Vlz5EhOSx2D\nwPvUPQ2+92zhl5M3xKXzgwT9Gl8QTwb10vFXiEHDBhhvKhDvkA7W3fPDGj92CyDT\n1vMiFH6taJssJBeJpMxSXuE1PHSdeX5/3suFGdkCgYBCN6ldBsuReS0voDkkzAs9\nyubB+8sp/KKK9Cl7EgweztBKXJUCPFQ2c0du/OSwKHch/+ao0ECo4Dd+SWzE1cYA\nrodVJZU97eQR9f0KD6XAkFk6pm4wdkhVokemdRHIp5T8kWpNSYFce83LecCOBeJa\nUG2EfzU5u7jQGAA9dLbJCQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gtts-woo@chopthecabbagge.iam.gserviceaccount.com",
+  "client_id": "109973550610054139571",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gtts-woo%40chopthecabbagge.iam.gserviceaccount.com"
+}
